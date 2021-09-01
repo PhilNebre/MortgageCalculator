@@ -1,0 +1,7 @@
+C:\Users\philg\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.AssemblyReference.cache
+C:\Users\philg\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\philg\source\repos\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe.config
+C:\Users\philg\source\repos\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.exe
+C:\Users\philg\source\repos\MortgageCalculator\MortgageCalculator\bin\Debug\MortgageCalculator.pdb
+C:\Users\philg\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.exe
+C:\Users\philg\source\repos\MortgageCalculator\MortgageCalculator\obj\Debug\MortgageCalculator.pdb
